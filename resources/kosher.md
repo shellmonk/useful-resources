@@ -4,11 +4,11 @@ Type of software development that you usually do for money using one of the popu
 
 ## General resources
 
+### Algorithms / Data structures
+
 ### Type theory
 
 ### Category theory
-
-### 
 
 ## Language specific resources
 
