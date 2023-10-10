@@ -2,7 +2,7 @@
 
 Type of software development that you usually do for money using one of the popular programming languages, in a respectable company. You know, __enterprise__ stuff.
 
-## CS resources
+## General CS resources
 
 ### Operating systems
 
@@ -42,9 +42,13 @@ Type of software development that you usually do for money using one of the popu
 
 ### Algorithms / Data structures
 
-### Computation / Complexity theory
+### Databases
 
-### Languages
+### Distributed computing
+
+### Computation / Automata theory
+
+### Programming languages theory
 
 ### Type theory
 
@@ -53,11 +57,15 @@ Type of software development that you usually do for money using one of the popu
 ### Formal methods
 
 
-## Language specific resources
+## Programming language specific resources
 
 ### Java
 
 ### C
+
+### Python
+
+### C++
 
 ### HTML / CSS
 
@@ -69,4 +77,4 @@ GTFO.
 
 ### Rust
 
-### 
+### Elixir
