@@ -1,2 +1,24 @@
 # Useful resources
-Collection of useful resources I found lurking around the Internetz
+Collection of useful resources I found lurking around the Internetz:
+
+## Sections
+
+### [Kosher coding](resources/kosher.md)
+
+> Type of software development that you usually do for money using one of the popular programming languages, in a respectable company. You know, __enterprise__ stuff.
+
+### [Crackhead coding](resources/crackhead.md)
+
+> Fun part of the programming realm. Type of coding you do when you're drunk, high or in academia and the grants are fat. When someone asks you why you did a project that fits this category, you respond "because fuck you, that's why". Writing C compiler in Ruby, web app in assembly, stuff like that.
+
+### [Software architecture](resources/arch.md)
+
+> Closer look at the software architect's ivory tower and from it. In reality, it's usually a glorified coal mine and you have the biggest shovel.
+
+### [Philosophy of software](resources/philosophy.md)
+
+> There's philosophy of everything, so why not software?
+
+### [Gray area](resources/gray.md)
+
+> All those nasty things you wanted to know but haven't had the cojones to ask. Gray area resources, mostly related to (un)ethical hacking, malware development, social engineering and other fun things we all wanted to do after watching Hackers (1995) with Angelina Jolie. Or Mr. Robot, for younger audience.
