@@ -10,4 +10,6 @@ Fun part of the programming realm. Type of coding you do when you're drunk, high
 
 ### AGI
 
+### Esolangs
+
 ### 

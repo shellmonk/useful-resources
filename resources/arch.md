@@ -22,10 +22,10 @@ Books are architect's best friend. There's only so much you can absorb from tech
 
 - [**The Practice of Enterprise Architecture**: A Modern Approach to Business and IT Alignment, 2nd Edition - Svyatoslav Kotusev](https://www.amazon.com/Practice-Enterprise-Architecture-Approach-Alignment/dp/064508252X)
 - [**Patterns of Enterprise Application Architecture**, 1st Edition - Martin Fowler](https://www.amazon.com/Patterns-Enterprise-Application-Architecture-Martin/dp/0321127420)
-- [**Enterprise Integration Patterns**: Designing, Building, and Deploying Messaging Solutions](https://www.amazon.com/Enterprise-Integration-Patterns-Designing-Deploying/dp/0321200683)
+- [**Enterprise Integration Patterns**: Designing, Building, and Deploying Messaging Solutions - Gregor Hohpe, Bobby Woolf](https://www.amazon.com/Enterprise-Integration-Patterns-Designing-Deploying/dp/0321200683)
 
 ### Corporate survival
 
-- [**Team Topologies**: Organizing Business and Technology Teams for Fast Flow](https://www.amazon.com/Team-Topologies-Organizing-Business-Technology/dp/1942788819)
-- [**The Software Architect Elevator**: Redefining the Architect's Role in the Digital Enterprise](https://www.amazon.com/Software-Architect-Elevator-Redefining-Architects/dp/1492077542)
+- [**Team Topologies**: Organizing Business and Technology Teams for Fast Flow - Matthew Skelton, Manuel Pais, Ruth Malan](https://www.amazon.com/Team-Topologies-Organizing-Business-Technology/dp/1942788819)
+- [**The Software Architect Elevator**: Redefining the Architect's Role in the Digital Enterprise, 1st Edition - Gregor Hohpe](https://www.amazon.com/Software-Architect-Elevator-Redefining-Architects/dp/1492077542)
 
